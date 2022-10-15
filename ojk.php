@@ -33,3 +33,4 @@ for ($i = 0; $i < $perusahaan->data->count; $i++) {
 }
 $table .= "</table>";
 echo $table;
+?>
